@@ -1,11 +1,11 @@
 {
-  "name": "markview",
-  "displayName": "MarkView",
+  "name": "markview-renderer",
+  "displayName": "MarkView-Renderer",
   "description": "A beautiful GitHub-style Markdown viewer and editor for Visual Studio Code.",
   "version": "0.1.0",
   "publisher": "pushpraj-10",
   "license": "MIT",
-  "icon": "images/logo.png",
+  "icon": "images/Logo.png",
   "preview": false,
   "engines": {
     "vscode": "^1.125.0"
